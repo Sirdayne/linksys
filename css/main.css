@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("../fonts/Roboto-Regular.ttf");
+}
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+}
+.title {
+    font-weight: bold;
+    font-size: 24px;
+    color: red;
+}
